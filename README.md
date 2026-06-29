@@ -42,7 +42,7 @@ EgoExoMem comprises 2,665+ human-verified multiple-choice QA pairs drawn from Eg
 
 ## Method
 
-E²-Select addresses multi-view frame selection where existing methods, designed for single-stream video, do not transfer. It explicitly accounts for view dependency, temporal consistency, and cross-view synchronization through two components: relevance-based budget allocation that distributes the frame budget across the ego and exo streams by query-frame relevance, and Cholesky-based k-DPP sampling that selects a diverse, non-redundant frame subset within each view.
+EÂ²-Select addresses multi-view frame selection where existing methods, designed for single-stream video, do not transfer. It explicitly accounts for view dependency, temporal consistency, and cross-view synchronization through two components: relevance-based budget allocation that distributes the frame budget across the ego and exo streams by query-frame relevance, and Cholesky-based k-DPP sampling that selects a diverse, non-redundant frame subset within each view.
 
 ## Key Findings
 
