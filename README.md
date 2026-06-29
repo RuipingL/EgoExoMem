@@ -6,7 +6,6 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-2605.18734-b31b1b.svg)](https://arxiv.org/pdf/2605.18734)
 [![Data](https://img.shields.io/badge/Data-GitHub-blue.svg)](https://github.com/RuipingL/EgoExoMem/tree/main/data)
-[![Code](https://img.shields.io/badge/Code-rag__baselines-orange.svg)](https://github.com/RuipingL/EgoExoMem/tree/main/code/rag_baselines)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](#license)
 
 <p align="center">
