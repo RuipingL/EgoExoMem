@@ -26,7 +26,7 @@ EgoExoMem is the first benchmark for memory-based reasoning over synchronized eg
 EgoExoMem comprises 2,665+ human-verified multiple-choice QA pairs drawn from EgoExo4D and LEMMA. Memory is characterized along eight QA types spanning spatial reasoning, temporal reasoning, view dependency, and memory time span.
 
 <p align="center">
-  <img src="assets/qa_types.png" width="95%" alt="EgoExoMem QA types"/>
+  <img src="assets/concept.png" width="95%" alt="EgoExoMem QA types"/>
 </p>
 
 | ID | QA Type | Focus |
